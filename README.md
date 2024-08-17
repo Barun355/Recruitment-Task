@@ -1,8 +1,8 @@
 # React + TypeScript + Vite + Tailwidcss + DaisyUI
 
 ### Installation Steps
-1.  ``` git clone ``` or download the zip file from the [source]()
-2. ``` cd  & npm i & npm run dev ```
+1.  ``` git clone https://github.com/Barun355/Recruitment-Task.git``` or download the zip file from the [source]()
+2. Then run this command ``` cd Recruitment-Task & npm i & npm run dev ``` to install necessary libraries, packages and start the local server.
 
 ### Features
 
