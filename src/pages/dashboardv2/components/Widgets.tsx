@@ -4,10 +4,10 @@ const Widgets = () => {
   return (
     <div className="border flex flex-col gap-2">
       <span>Widgets</span>
-      <WidgetCategory />
-      <WidgetCategory />
-      <WidgetCategory />
-      <WidgetCategory />
+      <WidgetCategory label={""} category={""} addWidgetToggle={undefined} widgets={[]} />
+      <WidgetCategory label={""} category={""} addWidgetToggle={undefined} widgets={[]} />
+      <WidgetCategory label={""} category={""} addWidgetToggle={undefined} widgets={[]} />
+      <WidgetCategory label={""} category={""} addWidgetToggle={undefined} widgets={[]} />
     </div>
   )
 }
